@@ -1,0 +1,25 @@
+{
+  "name": "calama2627",
+  "version": "1.0.0",
+  "description": "PF03 Actividad 1: TDD + Node + CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosLaOrdenMartinez/node-calama2627.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CarlosLaOrdenMartinez/node-calama2627/issues"
+  },
+  "homepage": "https://github.com/CarlosLaOrdenMartinez/node-calama2627#readme",
+  "devDependencies": {
+    "vitest": "^5.1.0"
+  },
+  "dependencies": {
+    "chalk": "^6.0.1"
+  }
+}
